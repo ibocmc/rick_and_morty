@@ -1,6 +1,6 @@
 # rick_and_morty
 
-A new Flutter project.
+A new Flutter project. it contains web api json file parse and List data in Listtile
 
 ## Getting Started
 
